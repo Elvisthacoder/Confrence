@@ -1,0 +1,23 @@
+<html>
+<head>
+<h5> The Furi </h5>  
+<header class = "container group">
+<a href="index.html">Home</a>
+<a href="">About</a>
+<a href="">Services</a>
+<a href="">Team</a>
+<a href="">Portfolio</a>
+<a href="">Contact</a>
+<a href="">pricing</a>
+</header>
+</head>
+<body>
+<p align="center"> <h4> welcome to The Furi </h4> </p>
+<p align="center"> <h1>We create amazing designs <br> from THE HEART </h1> <h4>we are a desgn agency</h4></p>
+<input type="button" name="learn more" value="learn more"> 
+<input type="button" name="about us" value="about us" checked="true">
+</body>
+</html>
+
+
+
